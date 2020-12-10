@@ -1,7 +1,6 @@
 # from ChatBot.core import Trainer
-from Intents.nullIntents import intents, new_intents
+from Intents.someIntent import new_intents
 from ChatBot_v2.generate import DataGenerator
-from pandas import read_csv, Series
 from ChatBot_v2.predictor import ModelPredictor
 from ChatBot_v2.trainer import ModelTrainer
 
@@ -47,13 +46,13 @@ while True:
 #     "I like this bot",
 #     "What do you do?",
 #     "What is your company into?",
-#     "Is dolphyn for me?",
+#     "Is TitanX for me?",
 #     "What products do you have?",
-#     "Why the name dolphyn?",
+#     "Why the name TitanX?",
 #     "I would like to know more about the products."
 # ]:
 #     print('\n', sentence)
 #     pre = trainer.predict(sentence)
 #     print(pre, '\n')
 #     print(":> ", trainer.getResponseForClass(pre))
-    # print(trainer.checkClasses)
+#     print(trainer.checkClasses)
