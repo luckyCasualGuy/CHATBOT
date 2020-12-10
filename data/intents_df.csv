@@ -1,0 +1,162 @@
+patterns,tag
+Hi there,greeting
+How are you,greeting
+Is anyone there?,greeting
+Hello,greeting
+Good day,greeting
+yo,greeting
+hey,greeting
+Bye,goodbye
+See you later,goodbye
+Goodbye,goodbye
+"Nice chatting to you, bye",goodbye
+Till next time,goodbye
+that's it then,goodbye
+Thanks,thanks
+Thank you,thanks
+That's helpful,thanks
+"Awesome, thanks",thanks
+Thanks for helping me,thanks
+awesome,thanks
+nice,thanks
+appreciate it,thanks
+good call,thanks
+gracias,thanks
+How you could help me?,options
+What you can do?,options
+What help you provide?,options
+How you can be helpful?,options
+What support is offered,options
+I want help.,options
+Tell me about yourself,options
+What do you know?,options
+help,options
+help me,options
+instructions,options
+huh,options
+What are you offering.,options
+I wanted to ask something,options
+what is this,options
+what are you,options
+How do I talk to a person,human
+I want to talk to a human,human
+how do I call you,human
+I need to speak to a real person,human
+Can you call me,human
+Can I talk to a human,human
+Representative,human
+Speak to a representative,human
+Speak to a Customer service agent,human
+I need to speak to customer service,human
+Can I talk to a representative,human
+How can I contact you,human
+contact,human
+email,human
+What is your email,human
+webinar,human
+Tell me about yourself,about
+about nullIot,about
+about,about
+about yourself,about
+about your company,about
+What does your company do?,about
+what do you do for living?,about
+products,products
+Tell me about products.,products
+What products do you have,products
+What are you selling?,products
+What can I buy from you?,products
+dolphyn,dolphyn
+about dolphyn,dolphyn
+what is dolphyn?,dolphyn
+what does dolphyn do?,dolphyn
+I do not know about survivr,dolphyn
+I want to know more about Dolphyn,dolphyn
+Survivr,Survivr
+about Survivr,Survivr
+what is Survivr?,Survivr
+what does Survivr do?,Survivr
+I do not know about survivr,Survivr
+I want to know more about Survivr,Survivr
+FrameGEN,FrameGEN
+about FramGen,FrameGEN
+what is FrameGEN?,FrameGEN
+what does FrameGEN do?,FrameGEN
+I do not know about framegen,FrameGEN
+I want to know more about Framegen,FrameGEN
+Do you provide any services?,Service
+about Service,Service
+What kind of services are you offering?,Service
+what about services?,Service
+I want to automate my digital services,Service
+Do you take work?,Service
+How much dolphyn cost?,Dolphyn_Price
+What are pricing plans for Dolphyn,Dolphyn_Price
+pricing of Dolphyn?,Dolphyn_Price
+Subscription plan for Dolphyn?,Dolphyn_Price
+How much Dolphyn cost?,Dolphyn_Price
+I want to buy Dolphyn?,Dolphyn_Price
+How can I buy Dolphyn,Dolphyn_Price
+Dolphyn price,Dolphyn_Price
+cost of Dolphyn,Dolphyn_Price
+Dolphyn cost,Dolphyn_Price
+How much Survivr cost?,Survivr_Price
+What are pricing plans for Survivr?,Survivr_Price
+pricing of Survivr?,Survivr_Price
+Subscription plan for Survivr?,Survivr_Price
+How much Survivr cost?,Survivr_Price
+I want to buy Survivr,Survivr_Price
+How can I buy Survivr,Survivr_Price
+survivr price,Survivr_Price
+cost of survivr,Survivr_Price
+survivr cost,Survivr_Price
+How much FrameGEN cost?,FrameGEN_Price
+What are pricing plans for FrameGEN?,FrameGEN_Price
+pricing of FrameGEN?,FrameGEN_Price
+Subscription plan for FrameGEN?,FrameGEN_Price
+How much FrameGEN cost?,FrameGEN_Price
+I want to buy FrameGEN?,FrameGEN_Price
+How can I buy FrameGEN,FrameGEN_Price
+framegen price,FrameGEN_Price
+cost of framegen,FrameGEN_Price
+framegen cost,FrameGEN_Price
+Is it available in my country?,Availabiity
+Can I pay in dollar?,Availabiity
+"my counytry is India,is it available here?",Availabiity
+Subscription plan for Dolphyn?,Availabiity
+How much Dolphyn cost?,Availabiity
+I want to buy Dolphyn?,Availabiity
+How can I buy Dolphyn,Availabiity
+dolphyn price,Availabiity
+ok,ok
+What else?,ok
+hm..,ok
+I get it now,ok
+cool,ok
+nice,ok
+okay,ok
+yes,yes
+of course,yes
+yah,yes
+no,no
+nah,no
+nop,no
+thats not helping,no
+did not help,no
+?,no
+I dont understand,no
+can I ask you something,ask
+I had some doubts,ask
+I have questions,ask
+I wanted to ask something,ask
+i wanted some intel,ask
+i want information,ask
+i want to know more,ask
+I hate you,angry
+I want refund!,angry
+!!,angry
+this is waste of time,angry
+stupid,angry
+this bot is useless,angry
+Why is this thing so difficult to understand,angry
+bot is broken,angry
