@@ -32,7 +32,7 @@ new_intents = [
     {
         'tag':'about',
         'patterns':['Tell me about yourself', 'about Company', 'about', 'about yourself', 'about your company', 'What does your company do?', 'what do you do for living?'],
-        "responses":['Null Innovation is a technology company developing products and providing services in the areas of the Internet of Things and Data Science. We are developing products that will help people to accelerate IoT development, make Digital Marketing data smart and monitor vital signs to save a life.'],
+        "responses":['TECHNOTIME is a technology company developing products and providing services in the areas of the Internet of Things and Data Science. We are developing products that will help people to accelerate IoT development, make Digital Marketing data smart and monitor vital signs to save a life.'],
         "context":[""]
     },
     {
